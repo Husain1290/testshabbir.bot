@@ -3,7 +3,7 @@ const fs = require("fs");
 const request = require("request");
  
 const link = [
-  "https://i.imgur.com/60l7ZLx.jpeg",
+  "https://i.postimg.cc/W3m82LG2/08969a64293ded4e3d07b5bfdd7c70ed.gif",
  
 ];
  
